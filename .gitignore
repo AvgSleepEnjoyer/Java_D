@@ -31,10 +31,4 @@ replay_pid*
 # Archivos temporales
 *.log
 *.tmp
-/Etapa 1/Practica 2/HelloWorld/HelloWorld/build/
-/Etapa 1/Practica 2/DatosPrimitivos/DatosPrimitivos/build/
-/Etapa 1/Practica 2/InputOutput/InputOutput/build/
-/Etapa 1/Practica 2/DatosPrimitivos/build/
-/Etapa 1/Practica 3/Practica3/build/
-/Etapa 1/Practica 3/Practica3-1/build/
-/Etapa 1/Practica4/build/
+/Etapa 1/Practica5/build/
