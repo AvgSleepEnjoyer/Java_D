@@ -28,6 +28,9 @@ replay_pid*
 # Ignorar configuraciones privadas de NetBeans
 **/nbproject/private/
 
+oracleJdk-26/
+*/oracleJdk-26/
+
 # Archivos temporales
 *.log
 *.tmp
