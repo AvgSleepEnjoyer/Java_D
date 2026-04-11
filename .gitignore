@@ -28,13 +28,22 @@ replay_pid*
 # Ignorar configuraciones privadas de NetBeans
 **/nbproject/private/
 
+oracleJdk-26/
+*/oracleJdk-26/
+
 # Archivos temporales
 *.log
 *.tmp
 /Etapa 1/Practica5/build/
+<<<<<<< HEAD
 /Etapa 2/Practica6/build/
 /Etapa 2/Practica7/Practica7.1/build/
 /Etapa 2/Practica7.1/build/
 /Etapa 2/Practica7/build/
 /Etapa 2/Practica8/Practica8.1/build/
 /Etapa 2/Practica8/Practica8.2/build/
+=======
+>>>>>>> 8f44aa2546ae347f6d5f900ea1aaec64a8e209c0
+/Etapa 3/Practica9/Practica9.1/build/
+/Etapa 3/Practica9/Practica9.2/build/
+/Etapa 3/Practica9/Practica9.3/build/

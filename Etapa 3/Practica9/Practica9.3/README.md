@@ -1,0 +1,1 @@
+El problema que solucionaria es al entrar a un sistema se preguntaría que permisos tiene para ver si pide o no contraseña si el usuario solo quiere ver
