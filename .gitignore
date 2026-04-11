@@ -11,6 +11,10 @@
 */dist/
 */out/
 
+*.private/
+*private/
+private/
+
 # Ignorar archivos de NetBeans
 nbproject/private/
 build/
